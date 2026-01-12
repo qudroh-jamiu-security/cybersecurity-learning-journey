@@ -23,7 +23,9 @@ Setting up my first virtualization environment to learn cybersecurity hands-on. 
 
 ## Virtual Machine Configuration
 **VM Name:** CloudSec-Ubuntu
+
 |Resource|Allocation|
+|--------|----------|
 |RAM|4GB (4096MB)|
 |vCPU|2 cores|
 |Storage|25GB virtual hard drive|
