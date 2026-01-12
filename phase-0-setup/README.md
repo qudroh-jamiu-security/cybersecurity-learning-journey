@@ -1,10 +1,13 @@
-# My Lab Setup - Phase 0
+# My First Lab Setup - Phase 0
+
 
 ## Date
-January 12, 2026.
+January 12, 2026
+
 
 ## Objective
 Setting up my first virtualization environment to learn cybersecurity hands-on. This lab is where I'll practice Linux, networking, and security tools as I work toward becoming a Cloud Security Engineer.
+
 
 ## Host System Specifications
 |Component|Specification|
@@ -14,12 +17,14 @@ Setting up my first virtualization environment to learn cybersecurity hands-on. 
 |Processor|4 cores, 8 logical processors|
 | Operating System|Windows 11|
 
+
 ## Software Versions
 |Software|Version|
 |--------|-------|
 |VirtualBox|7.2.4|
 |VirtualBox Extension Pack|7.2.4|
 |Ubuntu|24.04.3 LTS Desktop|
+
 
 ## Virtual Machine Configuration
 **VM Name:** CloudSec-Ubuntu
@@ -31,6 +36,7 @@ Setting up my first virtualization environment to learn cybersecurity hands-on. 
 |Storage|25GB virtual hard drive|
 |Network Mode|NAT (shares host internet)|
 
+
 ## Setup Process
 1. Downloaded and installed VirtualBox
 2. Installed Microsoft Visual C++ 2019 Redistributable (prerequisite)
@@ -41,6 +47,7 @@ Setting up my first virtualization environment to learn cybersecurity hands-on. 
 7. Installed Ubuntu on the VM
 8. Created user account with strong password
 9. Completed initial Ubuntu setup and updates
+
 
 ## Challenges & Solutions
 ### Challenge 1: VirtualBox Installation Failed
@@ -55,6 +62,7 @@ Setting up my first virtualization environment to learn cybersecurity hands-on. 
 **Problem:** Worried the "erase disk" option would delete Windows  
 **Solution:** Learned that this only affects the virtual disk (25GB virtual hard drive), not the physical laptop drive - Windows remains completely safe
 
+
 ## Key Learnings
 - Virtual machines are isolated from the host computer; safe environment for experimentation
 - Always verify download sources (important security practice)
@@ -63,8 +71,14 @@ Setting up my first virtualization environment to learn cybersecurity hands-on. 
 - Right Ctrl key releases mouse cursor from VM window
 - Healthy security mindset: being cautious about warnings and verifying information
 
+
 ## Backup & Recovery
 **Snapshot Taken:** Fresh Ubuntu Install
 **Purpose:** Clean baseline state for future restoration if configuration breaks
 
+
 ## Screenshots
+
+
+## Next Steps
+**Phase 1:** Starting with OverTheWire Bandit challenges to build command line proficiency
