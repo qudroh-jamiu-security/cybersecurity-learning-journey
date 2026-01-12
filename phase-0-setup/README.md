@@ -9,9 +9,9 @@ January 9, 2026.
 ## Tasks
 - [x] Create Github account
 - [x] Create learning journey repository
-- [ ] Install VirtualBox
-- [ ] Create Ubuntu VM
-- [ ] Document setup process
+- [x] Install VirtualBox
+- [x] Create Ubuntu VM
+- [x] Document setup process
 - [ ] Make first linkedin post
 
  ## Progress Notes
