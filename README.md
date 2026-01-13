@@ -32,7 +32,7 @@ Phase 0: Setup & Orientation - in progress [view full documentation](phase-0-set
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/qudroh-jamiu
-- X:
+- X: https://x.com/byqudroh
 
 ## Learning Approach
 Hands-on, project-based, documented publicly.
