@@ -1,12 +1,12 @@
 # My First Lab Setup - Phase 0
 
 
-## Date
-January 12, 2026
+**Date:** January 12, 2026
 
 
 ## Objective
-Setting up my first virtualization environment to learn cybersecurity hands-on. This lab is where I'll practice Linux, networking, and security tools as I work toward becoming a Cloud Security Engineer.
+Setting up my first virtualization environment to learn cybersecurity hands-on.
+This lab is where I'll practice Linux, networking, and security tools as I work toward becoming a Cloud Security Engineer.
 
 
 ## Host System Specifications
